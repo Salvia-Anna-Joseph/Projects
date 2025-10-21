@@ -1,0 +1,124 @@
+/*------------Fitting of binomial distribution--------------------*/
+
+#Given data
+n=5
+n
+x=c(0,1,2,3,4,5)
+x
+obs_freq=c(38,144,342,287,164,25)
+obs_freq
+
+#Calculating observed probability of success
+mean_x=sum(x*obs_freq)/sum(obs_freq)
+mean_x
+p=mean_x/n
+p
+
+#Creating required storage space
+prob_x=1:6
+exp_freq=1:6
+oi_ei=1:6
+
+#Function to compute ncx
+ncx=function(n,x)
+{
+y=factorial(n)/(factorial(x)*factorial(n-x))
+return(y)
+}
+
+#Calculations for fitting of distribution by chi-square method
+for(i in 1:(n+1))
+{
+prob_x[i]=ncx(n,x[i])*(p^x[i])*((1-p)^(n-x[i]))
+exp_freq[i]=prob_x[i]*sum(obs_freq)
+exp_freq[i]=round(exp_freq[i],0)
+oi_ei[i]=((obs_freq[i]-exp_freq[i])^2)/exp_freq[i]
+}
+
+#Output Table, Chi-square test statistic and P-value
+out_table=cbind(x,prob_x,exp_freq,oi_ei)
+out_table
+chi_square=sum(oi_ei)
+chi_square
+pvalue=pchisq(chi_square,n+1-1-1,lower.tail=FALSE)
+pvalue
+
+
+
+#Given data
+n=4
+n
+x=c(0,1,2,3,4)
+x
+obs_freq=c(7,18,40,31,4)
+obs_freq
+
+#Calculating observed probability of success
+mean_x=sum(x*obs_freq)/sum(obs_freq)
+mean_x
+p=mean_x/n
+p
+
+#Creating required storage space
+prob_x=1:5
+exp_freq=1:5
+oi_ei=1:5
+
+#Function to compute ncx
+ncx=function(n,x)
+{
+y=factorial(n)/(factorial(x)*factorial(n-x))
+return(y)
+}
+
+#Calculations for fitting of distribution by chi-square method
+for(i in 1:(n+1))
+{
+prob_x[i]=ncx(n,x[i])*(p^x[i])*((1-p)^(n-x[i]))
+exp_freq[i]=prob_x[i]*sum(obs_freq)
+exp_freq[i]=round(exp_freq[i],0)
+oi_ei[i]=((obs_freq[i]-exp_freq[i])^2)/exp_freq[i]
+}
+
+#Output Table, Chi-square test statistic and P-value
+out_table=cbind(x,prob_x,exp_freq,oi_ei)
+out_table
+chi_square=sum(oi_ei)
+chi_square
+pvalue=pchisq(chi_square,n+1-1-1,lower.tail=FALSE)
+
+/*------------Fitting of Poisson distribution--------------------*/
+
+#Given data
+x=c(0,1,2,3,4,5,6,7,8)
+x
+obs_freq=c(56,156,132,92,37,22,4,0,1)
+obs_freq
+
+#Calculating observed probability of success
+mean_x=sum(x*obs_freq)/sum(obs_freq)
+mean_x
+lamda=mean_x
+lamda
+
+#Creating required storage space
+prob_x=1:9
+exp_freq=1:9
+oi_ei=1:9
+
+#Calculations for fitting of distribution by chi-square method
+for(i in 1:(n+1))
+{
+prob_x[i]=(exp(-lamda)*lamda^x[i])/factorial(x[i])
+exp_freq[i]=prob_x[i]*sum(obs_freq)
+exp_freq[i]=round(exp_freq[i],0)
+oi_ei[i]=((obs_freq[i]-exp_freq[i])^2)/exp_freq[i]
+}
+
+#Output Table, Chi-square test statistic and P-value
+out_table=cbind(x,prob_x,exp_freq,oi_ei)
+out_table
+chi_square=sum(oi_ei)
+chi_square
+pvalue=pchisq(chi_square,n+1-1-1,lower.tail=FALSE)
+pvalue
