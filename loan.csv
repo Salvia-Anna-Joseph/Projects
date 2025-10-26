@@ -1,0 +1,190 @@
+﻿year,sex,age,nkids,income_average,loan_average,region,earner
+2011,female,43,2,87499.50,"2,750",North West,yes
+2011,female,53,0,27499.50,"6,250",Yorks&Humber,yes
+2011,female,36,2,44999.50,"2,250",South West,yes
+2011,male,48,0,62499.50,"3,250",Wales,yes
+2011,female,50,0,8499.50,125,South West,yes
+2011,male,53,0,10499.50,0,North West,no
+2011,male,57,0,44999.50,"5,250",E Midlands,no
+2011,female,31,2,6999.50,125,North West,yes
+2011,male,28,3,10499.50,750,Scotland,yes
+2011,male,40,2,44999.50,0,Greater London,no
+2011,male,39,1,87499.50,0,Greater London,yes
+2011,female,55,0,21249.50,"1,250",E Midlands,yes
+2011,male,27,2,12499.50,0,North West,yes
+2011,female,39,2,34999.50,"3,250",W Midlands,yes
+2011,male,31,3,16499.50,0,South West,no
+2011,male,45,0,62499.50,125,South East,yes
+2011,female,73,0,21249.50,0,South East,yes
+2011,male,42,1,6999.50,0,North West,yes
+2011,male,25,0,87499.50,"30,000",E Midlands,no
+2011,female,31,2,34999.50,"5,750",South East,yes
+2011,female,32,0,6999.50,125,Greater London,yes
+2011,male,27,0,62499.50,"17,500",Greater London,yes
+2011,male,31,0,62499.50,0,Greater London,yes
+2011,male,59,0,14499.50,0,North,yes
+2011,female,57,1,105000.00,750,South East,no
+2011,female,61,1,21249.50,"1,750",Yorks&Humber,yes
+2011,female,31,0,62499.50,0,E Anglia,yes
+2011,female,41,2,44999.50,"17,500",Greater London,yes
+2011,female,61,0,10499.50,0,North West,yes
+2011,female,40,3,62499.50,0,South East,yes
+2011,male,35,2,87499.50,0,Greater London,no
+2011,male,38,1,62499.50,0,Greater London,no
+2011,female,73,0,12499.50,0,South East,yes
+2011,male,80,0,6999.50,0,Scotland,yes
+2011,female,36,0,34999.50,"30,000",Yorks&Humber,yes
+2011,female,72,0,16499.50,0,Greater London,no
+2011,male,32,1,27499.50,"3,250",Yorks&Humber,no
+2011,female,48,2,44999.50,0,Yorks&Humber,yes
+2011,female,59,0,34999.50,0,Wales,yes
+2011,male,55,1,6999.50,0,Greater London,no
+2011,male,61,0,6999.50,125,North West,yes
+2011,male,71,0,6999.50,0,Scotland,yes
+2011,male,44,0,34999.50,0,South West,yes
+2011,female,65,0,21249.50,"5,250",Wales,yes
+2011,female,77,0,16499.50,0,W Midlands,yes
+2011,female,92,0,10499.50,0,E Anglia,yes
+2011,male,41,1,27499.50,"3,250",South East,yes
+2011,male,39,2,21249.50,"17,500",South West,yes
+2011,female,73,0,16499.50,0,South East,yes
+2011,female,32,1,16499.50,0,Greater London,yes
+2011,male,57,0,21249.50,"9,750",Wales,no
+2011,female,76,0,21249.50,0,North,yes
+2011,male,36,0,16499.50,0,Scotland,no
+2011,female,59,0,21249.50,0,South East,yes
+2011,male,59,0,34999.50,0,Yorks&Humber,no
+2011,male,54,0,62499.50,0,W Midlands,no
+2011,female,78,0,14499.50,0,E Midlands,yes
+2011,male,50,1,62499.50,"22,500",Greater London,no
+2011,male,62,0,2750.00,125,Yorks&Humber,yes
+2011,male,78,0,10499.50,"3,750",Yorks&Humber,yes
+2011,female,34,0,27499.50,"1,250",Greater London,yes
+2011,male,38,0,100000.00,"30,000",E Anglia,no
+2011,male,28,1,34999.50,350,E Midlands,no
+2011,male,60,0,14499.50,"1,250",North West,no
+2011,male,23,1,2750.00,350,North,yes
+2011,female,64,0,21249.50,0,North West,yes
+2011,male,48,1,87499.50,"1,250",South East,no
+2011,female,60,0,10499.50,"22,500",W Midlands,yes
+2011,female,45,0,8499.50,"12,500",North West,yes
+2011,female,30,0,27499.50,"12,500",North West,yes
+2011,female,32,2,21249.50,350,North,yes
+2011,female,22,1,21249.50,125,North,no
+2011,male,31,2,12499.50,"2,250",E Midlands,no
+2011,female,60,0,2750.00,0,Wales,yes
+2011,male,74,0,4500.00,0,Greater London,yes
+2011,male,23,1,5499.50,350,W Midlands,yes
+2011,male,44,1,2750.00,"12,500",North,yes
+2011,female,45,0,62499.50,"9,750",Yorks&Humber,yes
+2011,male,64,0,10499.50,750,W Midlands,yes
+2011,female,65,0,2750.00,0,Wales,yes
+2011,male,22,1,5499.50,"3,750",Wales,yes
+2011,male,32,3,27499.50,"2,750",South East,yes
+2011,female,49,1,21249.50,"1,250",Yorks&Humber,yes
+2011,male,68,0,5499.50,0,North West,yes
+2011,female,49,0,10499.50,125,E Anglia,yes
+2011,male,28,1,16499.50,350,Yorks&Humber,yes
+2011,male,48,3,16499.50,125,W Midlands,yes
+2011,male,57,0,87499.50,"17,500",E Anglia,no
+2011,female,59,0,8499.50,0,E Anglia,no
+2011,male,36,0,6999.50,0,North West,yes
+2011,female,68,0,21249.50,0,E Midlands,yes
+2011,female,42,3,62499.50,0,E Midlands,yes
+2011,male,73,0,21249.50,0,E Midlands,no
+2011,male,72,0,6999.50,"2,250",South East,yes
+2011,female,31,1,62499.50,"5,250",E Midlands,yes
+2011,male,41,1,21249.50,"1,750",North,no
+2011,female,76,0,10499.50,0,Scotland,yes
+2011,female,50,0,62499.50,"2,750",North,yes
+2011,female,65,0,44999.50,"2,250",South East,yes
+2011,female,76,0,21249.50,"1,750",North,yes
+2011,female,62,0,27499.50,0,Scotland,yes
+2011,male,56,0,6999.50,0,Wales,yes
+2011,female,45,2,62499.50,"30,000",South West,yes
+2011,male,57,1,16499.50,750,North West,no
+2011,male,86,0,8499.50,0,E Midlands,yes
+2011,female,22,0,21249.50,"1,250",Scotland,yes
+2011,male,27,0,21249.50,0,Greater London,no
+2011,male,20,1,14499.50,0,South West,yes
+2011,female,27,2,10499.50,750,E Midlands,yes
+2011,female,39,0,21249.50,0,E Anglia,yes
+2011,male,79,0,2750.00,0,North West,yes
+2011,male,42,1,44999.50,"17,500",Yorks&Humber,yes
+2011,male,43,3,87499.50,0,South East,no
+2011,female,47,0,5499.50,0,Yorks&Humber,yes
+2011,male,62,0,87499.50,0,South East,no
+2011,male,22,2,5499.50,0,North West,yes
+2011,male,75,0,14499.50,0,E Midlands,yes
+2011,female,57,0,62499.50,"12,500",E Midlands,yes
+2011,male,19,0,2750.00,"6,250",South East,yes
+2011,male,32,1,16499.50,0,Wales,yes
+2011,male,74,0,10499.50,0,North West,no
+2011,male,36,1,8499.50,0,North West,yes
+2011,female,36,0,16499.50,"12,500",North West,yes
+2011,female,85,0,8499.50,125,Scotland,yes
+2011,male,24,1,10499.50,0,North West,no
+2011,male,26,0,14499.50,"1,250",E Midlands,yes
+2011,male,48,0,16499.50,"4,750",North West,yes
+2011,female,29,0,6999.50,0,Greater London,yes
+2011,female,79,0,5499.50,0,Yorks&Humber,yes
+2011,female,56,0,8499.50,0,Greater London,yes
+2011,male,57,0,10499.50,0,Scotland,yes
+2011,female,54,2,27499.50,0,South East,yes
+2011,female,63,0,44999.50,750,Greater London,yes
+2011,female,50,0,44999.50,0,North West,yes
+2011,male,42,1,8499.50,0,North West,yes
+2011,male,76,0,16499.50,0,South East,no
+2011,male,36,2,12499.50,"1,250",North West,yes
+2011,female,64,0,5499.50,0,North,yes
+2011,male,62,0,34999.50,750,South East,no
+2011,male,38,2,62499.50,0,Yorks&Humber,no
+2011,female,56,0,5499.50,0,E Anglia,yes
+2011,female,52,0,21249.50,"4,750",E Midlands,yes
+2011,female,54,0,44999.50,0,E Anglia,yes
+2011,male,73,0,8499.50,350,W Midlands,no
+2011,female,42,0,62499.50,0,North,yes
+2011,male,40,0,2750.00,0,E Anglia,yes
+2011,female,19,0,8499.50,"22,500",W Midlands,yes
+2011,male,45,2,21249.50,0,South East,no
+2011,female,75,0,34999.50,0,South East,yes
+2011,female,72,0,21249.50,0,South East,yes
+2011,male,43,3,14499.50,"22,500",Greater London,yes
+2011,female,63,0,27499.50,0,Yorks&Humber,yes
+2011,male,35,0,44999.50,"4,250",Yorks&Humber,yes
+2011,male,42,4,21249.50,350,North,no
+2011,female,58,0,34999.50,0,South East,yes
+2011,female,31,1,27499.50,350,North,yes
+2011,male,37,1,87499.50,750,Wales,no
+2011,male,29,2,14499.50,0,Yorks&Humber,no
+2011,male,40,4,21249.50,750,E Midlands,no
+2011,female,43,1,62499.50,"12,500",E Midlands,yes
+2011,female,62,0,44999.50,0,South East,no
+2011,female,21,1,8499.50,"1,750",Wales,no
+2011,female,21,0,27499.50,0,North,yes
+2011,male,52,0,44999.50,0,E Midlands,no
+2011,male,41,2,34999.50,125,South West,yes
+2011,female,47,0,62499.50,"17,500",South East,no
+2011,female,68,0,34999.50,0,South East,yes
+2011,female,40,3,12499.50,"2,750",Greater London,yes
+2011,male,69,0,6999.50,125,South East,yes
+2011,male,39,2,62499.50,"4,750",E Midlands,no
+2011,male,38,3,44999.50,0,South East,no
+2011,male,56,1,62499.50,0,South East,no
+2011,male,22,3,6999.50,750,Yorks&Humber,no
+2011,male,55,0,10499.50,0,W Midlands,yes
+2011,male,45,0,12499.50,"17,500",Greater London,yes
+2011,female,34,1,21249.50,"2,250",South East,yes
+2011,female,41,0,100000.00,0,Yorks&Humber,yes
+2011,female,62,0,14499.50,125,South East,yes
+2011,male,36,2,100000.00,0,South West,no
+2011,female,28,0,14499.50,125,North,yes
+2011,male,44,0,14499.50,"4,750",Scotland,yes
+2011,male,53,0,2750.00,350,Yorks&Humber,yes
+2011,female,41,3,21249.50,0,North,no
+2011,male,42,3,62499.50,0,E Midlands,no
+2011,male,41,0,62499.50,750,W Midlands,no
+2011,female,68,0,27499.50,"1,250",South East,yes
+2011,female,33,0,100000.00,"12,500",South East,yes
+2011,female,75,0,10499.50,0,Greater London,yes
+2011,male,54,0,44999.50,0,South East,yes
